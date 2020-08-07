@@ -1,0 +1,10 @@
+1023,Puente,Raphael,22
+1028,Chimal,Gerardo,40
+1047,Martin,Marcela,35
+1121,Posada,Gustavo,30
+1031,Lopez,Daniela,40
+1221,Duarte,Leslie,32
+1321,Almada,Viviana,41
+1126,Garza,Jorge,28
+1412,Turizo,Manuel,15
+1012,Rojas,Cecilia,36
